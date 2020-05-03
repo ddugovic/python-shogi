@@ -2,6 +2,7 @@
 
 from __future__ import unicode_literals
 
+Color = bool
 COLORS = [BLACK, WHITE] = range(2)
 
 PIECE_TYPES_WITH_NONE = [NONE,

@@ -56,6 +56,9 @@ PIECE_PROMOTED = [
            None,       None,
 ]
 
+NUMBER_ENGLISH_ALPHA_SYMBOLS = [
+    'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i'
+]
 NUMBER_JAPANESE_NUMBER_SYMBOLS = [
     '\uff10', '\uff11', '\uff12', '\uff13', '\uff14',
     '\uff15', '\uff16', '\uff17', '\uff18', '\uff19'
